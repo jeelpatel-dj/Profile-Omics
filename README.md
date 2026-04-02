@@ -1,5 +1,3 @@
-<div style="background-color:#1e1e1e; padding:25px; border-radius:15px;">
-  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:141E3,100:243B55&height=250&section=header&text=JEEL%20PATEL&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=600&lines=🎓+M.Sc.+Microbiology+Student;🔬Aspiring+Microbiolist;💻+Bioinformatics+Learner;Passionate+About+Science)
@@ -61,10 +59,4 @@ I am particularly interested in interdisciplinary research that combines microbi
 - 💼 LinkedIn: https://in.linkedin.com/in/jeel-patel-dj-10b26b304
 - 💻 GitHub: https://github.com/jeelpatel-dj
 
----
-
 ⭐️ *“Passionate about science, research, and continuous learning.”*
-
-</div>
-crobiology with computational tools to solve real-world biological problems.
-

@@ -59,7 +59,7 @@ I am particularly interested in interdisciplinary research that combines microbi
 ## 📫 Contact Me
 - 📧 Email: jeel@email.com  
 - 💼 LinkedIn: https://in.linkedin.com/in/jeel-patel-dj-10b26b304
-- 💻 GitHub: (https://github.com/jeelpatel-dj)
+- 💻 GitHub: https://github.com/jeelpatel-dj
 
 ---
 
